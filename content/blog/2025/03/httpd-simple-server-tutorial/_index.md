@@ -4,7 +4,7 @@ date: 2025-02-17T08:49:13+01:00
 showAuthor: false
 authors:
   - francesco-bez 
-summary: "In this tutorial, you will learn how to set up an HTTP server on the Espressif platform. The example application will guide you through starting an access point (Soft-AP), launching an HTTP server, and serving an HTML page.
+summary: "In this tutorial, you will learn how to set up an HTTP server on the Espressif platform. The example application will guide you through starting an access point (Soft-AP), launching an HTTP server, and serving an HTML page."
 
 ---
 
