@@ -1,14 +1,12 @@
 ---
 title: "Part 1: Create a soft-AP"
-date: 2025-02-17
-featureAsset: "img/featured/featured_http_server_softAP.webp"
+date: 2025-03-26
 showAuthor: false
 authors:
   - francesco-bez 
 tags: [soft-AP, ESP32-C3, ESP-IDF]
+summary: "In this first part, you will set up an access point (soft-AP) and manage a few basic Wi-Fi events. "
 ---
-
->In this first part, you will set up an access point (soft-AP) and manage a few basic Wi-Fi events. 
 
 There are many ways you can do the credentail provisioning for an IoT application, the most common arguably being the provisioning over Bluetooth. But there are several cases where using WiFi provisioning may be the best way to do it. 
 

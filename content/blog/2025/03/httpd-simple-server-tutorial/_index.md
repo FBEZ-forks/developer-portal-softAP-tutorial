@@ -1,14 +1,12 @@
 ---
-title: "Httpd Simple Server Tutorial"
+title: "How to create a simple HTTPd server"
 date: 2025-02-17T08:49:13+01:00
-description: "A two-part tutorial on Hugo."
-featureAsset: "img/featured/featured_http_server_softAP.webp"
 showAuthor: false
 authors:
   - francesco-bez 
----
+summary: "In this tutorial, you will learn how to set up an HTTP server on the Espressif platform. The example application will guide you through starting an access point (Soft-AP), launching an HTTP server, and serving an HTML page.
 
-> In this tutorial, you will learn how to set up an HTTP server on the Espressif platform. The example application will guide you through starting an access point (Soft-AP), launching an HTTP server, and serving an HTML page.
+---
 
 HTTP is one of the most common internet protocols we interact with. While it’s often associated with complex web pages and advanced products, it’s also one of the most effective interfaces you can provide as an embedded IoT developer.
 
