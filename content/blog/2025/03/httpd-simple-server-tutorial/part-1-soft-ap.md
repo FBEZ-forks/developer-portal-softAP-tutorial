@@ -2,6 +2,7 @@
 title: "Part 1: Create a soft-AP"
 date: 2025-03-26
 showAuthor: false
+featureAsset: "img/featured/featured_httpd.webp"
 authors:
   - francesco-bez 
 tags: [soft-AP, ESP32-C3, ESP-IDF]
